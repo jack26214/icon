@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            height: 500px;
+            width: 100%;
+            background-image: url(https://images.stockcake.com/public/5/2/3/523a50fc-37fc-45e0-ba67-18cc14843782_medium/majestic-peacock-display-stockcake.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:bottom;
+            background-attachment: fixed;
+        }
+
+        img{
+            width: 200px;
+        }
+
+        .box3{
+            height: 100px;
+            width: 100px;
+            background-color: rebeccapurple;
+            box-shadow: 1px 1px 30px rebeccapurple;
+        }
+    </style>
+</head>
+<body>
+   
+    <div class="box">
+        <h1>Computer</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet modi voluptates ratione hic laborum, non doloribus sequi suscipit ullam magnam. Pariatur itaque accusantium distinctio consectetur dolorem fuga aut iste laudantium.</p>
+        <img src="https://img.magnific.com/free-photo/courage-man-jump-through-gap-hill-business-concept-idea_1323-262.jpg?semt=ais_hybrid&w=740&q=80&quot; alt="">
+    </div>
+
+    <div class="box3"></div>
+
+
+    <h1>COmputer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam doloremque nemo quae quibusdam repellendus ipsa consequatur dignissimos eaque deserunt voluptates labore, iusto aspernatur dolorum, laudantium corrupti laboriosam aliquam, a fugit!</p>
+
+
+    <h1>COmputer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam doloremque nemo quae quibusdam repellendus ipsa consequatur dignissimos eaque deserunt voluptates labore, iusto aspernatur dolorum, laudantium corrupti laboriosam aliquam, a fugit!</p>
+
+
+
+    <h1>COmputer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam doloremque nemo quae quibusdam repellendus ipsa consequatur dignissimos eaque deserunt voluptates labore, iusto aspernatur dolorum, laudantium corrupti laboriosam aliquam, a fugit!</p>
+
+
+
+
+    <h1>COmputer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam doloremque nemo quae quibusdam repellendus ipsa consequatur dignissimos eaque deserunt voluptates labore, iusto aspernatur dolorum, laudantium corrupti laboriosam aliquam, a fugit!</p>
+
+
+
+    <h1>COmputer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam doloremque nemo quae quibusdam repellendus ipsa consequatur dignissimos eaque deserunt voluptates labore, iusto aspernatur dolorum, laudantium corrupti laboriosam aliquam, a fugit!</p>
+
+
+</body>
+</html>S
